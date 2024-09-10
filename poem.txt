@@ -7,3 +7,5 @@ The
 Github
 Tutorial
 Period
+Comma
+Exclamation
